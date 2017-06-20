@@ -24,13 +24,6 @@ h1 {
     padding: 15px;
 }
 
-.cell p {
-    text-align: center;
-    margin-top: 33%;
-    font-size: 24pt;
-    font-family: Helvetica, Arial;
-}
-
 .cell.win {
     background-color: lightgreen;
 }
